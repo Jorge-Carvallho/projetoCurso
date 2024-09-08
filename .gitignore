@@ -1,0 +1,18 @@
+# Ignorar ambientes virtuais
+.wttd/
+
+# Ignorar arquivos de configuração de ambientes virtuais
+.env
+
+# Ignorar arquivos do PyCharm/IDEA
+.idea/
+
+# Ignorar arquivos de banco de dados SQLite
+*.sqlite3
+
+# Ignorar arquivos compilados do Python
+*.pyc
+__pycache__/
+
+# Ignorar arquivos específicos
+infor.txt
